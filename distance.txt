@@ -1,3 +1,6 @@
-Brazil's two most populous cities as of 2025 are generally São Paulo and Rio de Janeiro.
-Driving distance between them: 434.919 km (Google Maps distance matrix result).
-Reverse route returned 433.292 km.
+Brazil's two most populous cities as of 2025:
+1. São Paulo
+2. Rio de Janeiro
+
+Distance by road (Google Maps): 435 km
+Exact value from API: 434.919 km
